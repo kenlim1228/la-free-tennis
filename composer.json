@@ -1,0 +1,7 @@
+{
+    "require": {
+        "sunra/php-simple-html-dom-parser": "^1.5",
+        "google/cloud-firestore": "^1.5",
+        "grpc/grpc": "^1.19"
+    }
+}
